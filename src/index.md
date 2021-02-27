@@ -17,3 +17,5 @@ themselves on twitter.
 * [@icebergy_](/u/icebergy_)
 * [@alistairmilne](/u/alistairmilne)
 * [@cryptunez](/u/cryptunez)
+* [@JamesSpediacci](/u/@JamesSpediacci)
+
