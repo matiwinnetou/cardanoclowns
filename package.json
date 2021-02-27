@@ -1,0 +1,16 @@
+{
+  "name": "cardanoclowns",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "eleventy --input=src --serve",
+    "build": "eleventy --input=src"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
+    "prettier": "^2.1.2"
+  }
+}

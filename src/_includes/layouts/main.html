@@ -1,0 +1,29 @@
+---
+title: 🌸 rvcas
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link
+      href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1/new.min.css"
+    />
+    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css" />
+  </head>
+  <body>
+    <header>
+      <h3>
+        <i>{{ title }}</i>
+      </h3>
+    </header>
+
+    {{ content | safe }}
+  </body>
+</html>
